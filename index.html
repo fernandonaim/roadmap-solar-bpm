@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta http-equiv="refresh" content="5;url=https://roadmap-solarbpm.infinityfreeapp.com/index.php">
+  <title>Site movido — Solar BPM Roadmap</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #0f172a;
+      color: #e2e8f0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+      padding: 2rem;
+    }
+    .card {
+      background: #1e293b;
+      border: 1px solid #334155;
+      border-radius: 12px;
+      padding: 2.5rem 3rem;
+      max-width: 480px;
+    }
+    h1 { font-size: 1.4rem; font-weight: 600; margin-bottom: 0.75rem; }
+    p  { color: #94a3b8; font-size: 0.95rem; line-height: 1.6; margin-bottom: 1.5rem; }
+    a {
+      display: inline-block;
+      background: #3b82f6;
+      color: #fff;
+      text-decoration: none;
+      padding: 0.6rem 1.4rem;
+      border-radius: 6px;
+      font-size: 0.95rem;
+      font-weight: 500;
+    }
+    a:hover { background: #2563eb; }
+    .counter { margin-top: 1.25rem; font-size: 0.85rem; color: #64748b; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Este endereço foi alterado</h1>
+    <p>O Solar BPM Roadmap agora está em um novo endereço.<br>Você será redirecionado automaticamente em <strong id="s">5</strong> segundos.</p>
+    <a href="https://roadmap-solarbpm.infinityfreeapp.com/index.php">Ir agora</a>
+    <p class="counter">Redirecionando para roadmap-solarbpm.infinityfreeapp.com</p>
+  </div>
+  <script>
+    var n = 5;
+    var el = document.getElementById('s');
+    var t = setInterval(function() {
+      n--;
+      el.textContent = n;
+      if (n <= 0) {
+        clearInterval(t);
+        window.location.href = 'https://roadmap-solarbpm.infinityfreeapp.com/index.php';
+      }
+    }, 1000);
+  </script>
+</body>
+</html>
