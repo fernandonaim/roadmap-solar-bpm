@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password_hash": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi"
+    }
+  ],
+  "site_title": "Solar BPM — Roadmap",
+  "responsibles": [
+    { "name": "Naim",    "short": "N",  "color": "#60a5fa" },
+    { "name": "Michael", "short": "M",  "color": "#818cf8" },
+    { "name": "Vitorino","short": "V",  "color": "#34d399" },
+    { "name": "Claudio", "short": "C",  "color": "#fb923c" }
+  ],
+  "tipos": [
+    { "key": "sob",         "label": "Sob Demanda" },
+    { "key": "melhoria",    "label": "Melhoria"    },
+    { "key": "sprint",      "label": "Sprint"      },
+    { "key": "implantacao", "label": "Implantação" },
+    { "key": "debito",      "label": "Débito"      }
+  ],
+  "tipos_evolucao": [
+    { "key": "custom", "label": "Customizada" },
+    { "key": "get",    "label": "GET"          },
+    { "key": "getf",   "label": "GETF"         }
+  ],
+  "epd_etapas": [
+    "Aguardando Análise",
+    "Em Análise",
+    "Aguardando Viabilidade Técnica",
+    "Aguardando Aprovação da Análise"
+  ],
+  "ers_etapas": [
+    "Aguardando Especificação",
+    "Especificação Reprovada",
+    "Em Especificação",
+    "Aguardando Validação Técnica",
+    "Aguardando Contagem de Métrica PF",
+    "Aguardando Aprovação da Especificação",
+    "Especificação Aprovada"
+  ]
+}

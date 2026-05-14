@@ -1,0 +1,171 @@
+{
+    "cycles": [
+        {
+            "id": "ciclo_02_2026",
+            "codigo": "02",
+            "ano": 2026,
+            "candidatas": [],
+            "priorizadas": [],
+            "backlog": []
+        },
+        {
+            "id": "ciclo_04_2026",
+            "codigo": "04",
+            "ano": 2026,
+            "candidatas": [],
+            "priorizadas": [
+                {
+                    "upstream_id": "ups_1778714353_855",
+                    "horas_mes1": 320,
+                    "horas_mes2": 0,
+                    "horas_excedente": 0,
+                    "obs": ""
+                },
+                {
+                    "upstream_id": "ups_1778714590_175",
+                    "horas_mes1": 144,
+                    "horas_mes2": 0,
+                    "horas_excedente": 0,
+                    "obs": ""
+                },
+                {
+                    "upstream_id": "ups_1778714748_311",
+                    "horas_mes1": 160,
+                    "horas_mes2": 0,
+                    "horas_excedente": 0,
+                    "obs": ""
+                },
+                {
+                    "upstream_id": "ups_1778714849_402",
+                    "horas_mes1": 0,
+                    "horas_mes2": 144,
+                    "horas_excedente": 0,
+                    "obs": ""
+                },
+                {
+                    "upstream_id": "ups_1778715365_156",
+                    "horas_mes1": 178,
+                    "horas_mes2": 0,
+                    "horas_excedente": 0,
+                    "obs": ""
+                },
+                {
+                    "upstream_id": "ups_1778715452_553",
+                    "horas_mes1": 0,
+                    "horas_mes2": 280,
+                    "horas_excedente": 0,
+                    "obs": ""
+                },
+                {
+                    "upstream_id": "ups_1778715528_655",
+                    "horas_mes1": 320,
+                    "horas_mes2": 0,
+                    "horas_excedente": 0,
+                    "obs": ""
+                },
+                {
+                    "upstream_id": "ups_1778715694_471",
+                    "horas_mes1": 0,
+                    "horas_mes2": 676,
+                    "horas_excedente": 0,
+                    "obs": ""
+                }
+            ],
+            "backlog": []
+        },
+        {
+            "id": "ciclo_06_2026",
+            "codigo": "06",
+            "ano": 2026,
+            "candidatas": [
+                "ups_1778767175_664",
+                "ups_1778767237_703",
+                "ups_1778767338_733",
+                "ups_1778767394_757",
+                "ups_1778767431_212",
+                "ups_1778767478_956",
+                "ups_1778767511_934",
+                "ups_1778767294_827"
+            ],
+            "priorizadas": [
+                {
+                    "upstream_id": "ups_1778759752_280",
+                    "horas_mes1": 35,
+                    "horas_mes2": 0,
+                    "horas_excedente": 0,
+                    "obs": ""
+                },
+                {
+                    "upstream_id": "ups_1778759804_688",
+                    "horas_mes1": 120,
+                    "horas_mes2": 0,
+                    "horas_excedente": 0,
+                    "obs": ""
+                },
+                {
+                    "upstream_id": "ups_1778759899_206",
+                    "horas_mes1": 169,
+                    "horas_mes2": 300,
+                    "horas_excedente": 413,
+                    "obs": ""
+                },
+                {
+                    "upstream_id": "ups_1778760080_440",
+                    "horas_mes1": 225,
+                    "horas_mes2": 112,
+                    "horas_excedente": 0,
+                    "obs": ""
+                },
+                {
+                    "upstream_id": "ups_1778715452_553",
+                    "horas_mes1": 450,
+                    "horas_mes2": 112,
+                    "horas_excedente": 0,
+                    "obs": ""
+                },
+                {
+                    "upstream_id": "ups_1778715528_655",
+                    "horas_mes1": 225,
+                    "horas_mes2": 112,
+                    "horas_excedente": 0,
+                    "obs": ""
+                },
+                {
+                    "upstream_id": "ups_1778715694_471",
+                    "horas_mes1": 0,
+                    "horas_mes2": 676,
+                    "horas_excedente": 0,
+                    "obs": ""
+                }
+            ],
+            "backlog": []
+        },
+        {
+            "id": "ciclo_08_2026",
+            "codigo": "08",
+            "ano": 2026,
+            "candidatas": [
+                "ups_25",
+                "ups_27"
+            ],
+            "priorizadas": [],
+            "backlog": []
+        },
+        {
+            "id": "ciclo_10_2026",
+            "codigo": "10",
+            "ano": 2026,
+            "candidatas": [],
+            "priorizadas": [],
+            "backlog": []
+        },
+        {
+            "id": "ciclo_12_2026",
+            "codigo": "12",
+            "ano": 2026,
+            "candidatas": [],
+            "priorizadas": [],
+            "backlog": []
+        }
+    ]
+}
